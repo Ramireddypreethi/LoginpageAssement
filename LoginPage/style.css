@@ -1,0 +1,28 @@
+.container{
+    background-color: whitesmoke;
+    height:300px;
+    width:300px;
+   align-items: center;
+   margin-left: 550px;
+   margin-top: 250px;
+   box-shadow: 20px 20px 50px lightgrey; 
+   border-radius: 20px;
+
+}
+input{
+    width:290px;
+    height:50px;
+    border-radius: 10px;
+}
+label{
+    padding:0;
+    margin:0;
+}
+button{
+    width:300px;
+    background-color: green;
+}
+p{
+    align-items: center;
+    padding-left: 30px;
+}
